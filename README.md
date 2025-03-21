@@ -13,6 +13,6 @@
     un comportement déplacer</il></ol>
     <p> Mais bon il faut que la personne soit assez mature pour ne pas qu'elle puisse comprendre quel dois se remettre en question <br/>
     sinon bas il va pas changer et va même dire que c nous qui avons trop changer. Mais bon c la vie c comme. </p>
-    <img nom="coeur1"/> 
+    <img nom="C:\Users\Raphael\Pictures\html"/> 
   </body>
 </html> 
